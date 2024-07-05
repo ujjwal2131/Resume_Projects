@@ -11,7 +11,7 @@ There is a pressing need for a solution that can facilitate the meticulous track
 
 - **Implemented Features:** Utilized Excel features such as 'Get Data' for CSV extraction, Power Query for data cleaning and transformation using M language, Power Pivot for data modeling and creating measures with DAX, and Pivot tables with conditional formatting to highlight specific thresholds. Employed ETL (Extract, Transform, Load) concepts throughout.
 
-- **Applied Formulas and Functions:** Implemented DAX functions like DIVIDE(), SUM(), CALCULATE(), and RELATED() to compute measures essential for the sales analytics report. Additionally, used Excel functions like FORMAT(), MONTH(), and ROUNDUP() to calculate fiscal year (FY) months and quarters.
+- **Applied Formulas and Functions:** Implemented DAX functions like DIVIDE(), SUM(), CALCULATE(), and RELATED() to compute measures essential for the finance analytics reports. Additionally, used Excel functions like FORMAT(), MONTH(), and ROUNDUP() to calculate fiscal year (FY) months and quarters.
 
 ## Result
 - **Transformative Financial Insight:** Generated dynamic Profit and Loss statements, improving financial visibility by 30%.
