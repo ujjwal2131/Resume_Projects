@@ -8,10 +8,12 @@ This project unifies two sub-projects: Sales Analytics and Finance Analytics.
 ## Sales Analytics :
 
 **Project description:** The 'Sales Analytics' project empowers sales teams with a Customer Performance Report, facilitating strategic decision-making. This dynamic tool analyzes customer data, past performance, and profitability metrics, offering insights filterable by regions, countries, and product categories.
+_[Sales Analytics](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics)_
 
 ## Finance Analytics :
 
 **Project description:** The 'Finance Analytics' project is a comprehensive financial analysis tool designed to deliver a detailed overview of AtliQ's performance over specific periods, be it monthly, quarterly, or yearly. This project focuses on generating a robust Profit and Loss (P&L) statement, providing key stakeholders, executives, and financial analysts with a clear and insightful snapshot of the company's financial health.
+_[Finance Analytics](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics)_
 
 
 # Project Goal
