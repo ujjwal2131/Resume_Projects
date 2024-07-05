@@ -7,9 +7,9 @@ In any company, the finance function typically holds considerable influence, and
 There is a pressing need for a solution that can facilitate the meticulous tracking of profit and loss statements. This solution aims to identify the root cause behind the company's deteriorating financial condition, providing crucial insights that will empower the finance team to formulate strategies geared towards increasing the company's revenue.
 
 ## Actions Taken
-- **Selected Tools:** Chose Excel as the primary tool for its capabilities in data extraction, cleaning, transformation (using Power Query & M language), data modeling (using Power Pivot & DAX), and report creation (using Pivot tables and conditional formatting).
+- **Selected Tools:** Chose Excel as the primary tool for its robust capabilities in data extraction, cleaning, transformation, modeling, and report creation.
 
-- **Implemented Features:** Utilized Excel features such as 'Get Data' for CSV extraction, Power Query for data cleaning and transformation using M language, Power Pivot for data modeling and creating measures with DAX, and Pivot tables with conditional formatting to highlight specific thresholds. Employed ETL (Extract, Transform, Load) concepts throughout.
+- **Utilized Features:** Leveraged 'Get Data' for extracting data from CSV files, Power Query with M language for data cleaning and transformation, and Power Pivot with DAX for data modeling and measure creation. Used Pivot tables and conditional formatting to create insightful reports and highlight key metrics. Employed ETL (Extract, Transform, Load) concepts throughout the process.
 
 - **Applied Formulas and Functions:** Implemented DAX functions like DIVIDE(), SUM(), CALCULATE(), and RELATED() to compute measures essential for the finance analytics reports. Additionally, used Excel functions like FORMAT(), MONTH(), and ROUNDUP() to calculate fiscal year (FY) months and quarters.
 
