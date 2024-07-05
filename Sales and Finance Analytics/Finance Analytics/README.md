@@ -18,5 +18,5 @@ There is a pressing need for a solution that can facilitate the meticulous track
 - **Adaptive Reporting and Cost Control:** Enabled analysis of financial data across monthly, quarterly, and yearly intervals, reducing reporting time by 40%.
 - **Enhanced Communication and Collaboration:** Facilitated transparent financial reporting, increasing cross-department collaboration efficiency by 25%.
 
-**Analysis Reports:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Analysis%20Reports) to check the analytical reports.(`<br>`)
+**Analysis Reports:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Analysis%20Reports) to check the analytical reports.  
 **Insights:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Insights) to check the key insights.  
