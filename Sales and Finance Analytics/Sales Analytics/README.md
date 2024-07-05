@@ -7,9 +7,9 @@ Loki, the Sales Manager at AtliQ Hardware, faces challenges in optimizing sales 
 There is a need for a tailored solution to empower Loki in adopting a strategic approach to achieve sales objectives and enhance overall company performance. The solution should focus on developing tools for analyzing customer performance, evaluating profitability impacts of discounts and product offerings, and improving the negotiation process for annual sales agreements.
 
 ## Actions Taken
-- **Selected Tools:** Chose Excel as the primary tool, leveraging 'Get Data' for CSV extraction, Power Query and M language for data cleaning and transformation, and Power Pivot with DAX for data modeling and creating measures. Also used Pivot tables for report creation and conditional formatting for visual insights.
+- **Selected Tools:** Opted for Excel due to its robust suite of tools for extracting, cleansing, transforming, modeling data, and creating detailed reports.
 
-- **Implemented Features:** Utilized Excel features comprehensively, including creating a custom date table for fiscal year analysis, applying ETL (Extract, Transform, Load) concepts throughout the data processing pipeline.
+- **Implemented Features:** Utilized 'Get Data' for extracting CSV files, harnessed Power Query and M language for meticulous data cleaning and transformation, and employed Power Pivot with DAX for sophisticated data modeling and measure creation. Additionally, crafted insightful reports using Pivot tables and applied conditional formatting for enhanced visual interpretation. Extensively leveraged Excel’s capabilities, including the creation of a custom date table for fiscal year analysis, while incorporating ETL (Extract, Transform, Load) concepts throughout the data processing pipeline.
 
 - **Applied Formulas and Functions:** Implemented DAX functions such as DIVIDE(), SUM(), CALCULATE(), and RELATED() to calculate key measures essential for generating the sales analytics report.
 
