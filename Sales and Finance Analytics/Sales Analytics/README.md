@@ -9,7 +9,7 @@ There is a need for a tailored solution to empower Loki in adopting a strategic 
 ## Actions Taken
 - **Selected Tools:** Opted for Excel due to its robust suite of tools for extracting, cleansing, transforming, modeling data, and creating detailed reports.
 
-- **Implemented Features:** Utilized 'Get Data' for extracting CSV files, harnessed Power Query and M language for meticulous data cleaning and transformation, and employed Power Pivot with DAX for sophisticated data modeling and measure creation. Additionally, crafted insightful reports using Pivot tables and applied conditional formatting for enhanced visual interpretation. Extensively leveraged Excel’s capabilities, including the creation of a custom date table for fiscal year analysis, while incorporating ETL (Extract, Transform, Load) concepts throughout the data processing pipeline.
+- **Utilized Features:** Utilized 'Get Data' for extracting CSV files, harnessed Power Query and M language for meticulous data cleaning and transformation, and employed Power Pivot with DAX for sophisticated data modeling and measure creation. Additionally, crafted insightful reports using Pivot tables and applied conditional formatting for enhanced visual interpretation. Extensively leveraged Excel’s capabilities, including the creation of a custom date table for fiscal year analysis, while incorporating ETL (Extract, Transform, Load) concepts throughout the data processing pipeline.
 
 - **Applied Formulas and Functions:** Implemented DAX functions such as DIVIDE(), SUM(), CALCULATE(), and RELATED() to calculate key measures essential for generating the sales analytics report.
 
