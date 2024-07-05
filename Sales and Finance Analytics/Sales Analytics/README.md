@@ -18,5 +18,5 @@ There is a need for a tailored solution to empower Loki in adopting a strategic 
 - Enhanced **profitability** by 25% through tailored strategies assessing the impact of discounts on specific customers.
 - Facilitated **strategic growth**, leading to a 15% increase in market share and achieving sales objectives by identifying top-performing products and tracking market performance.
 
-**Analysis Reports:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Analysis%20Reports) to check the reports.
+**Analysis Reports:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Analysis%20Reports) to check the reports.  
 **Insights:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Insights) to check the key insights.
