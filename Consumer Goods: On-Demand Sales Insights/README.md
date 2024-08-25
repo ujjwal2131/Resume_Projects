@@ -18,6 +18,11 @@ The task was to analyze ad-hoc data requests from AtliQ Hardware, addressing key
 - **Discount Strategy Refinement:** Discovered that balancing discount strategies could significantly boost sales while maintaining equitable relationships with key customers.
 - **Impactful Decision Support:** Delivered comprehensive insights that addressed 10 specific ad-hoc requests, driving improvements in product distribution, cost management, and sales performance.
 
-**SQL Queries:** Click here  
-**Note:** To check the insights you can check the PPT and to see the visuals check the provided excel file.  
+   
+**NOTE:** 
+- To check the SQL queries click here.
+- To explore the visuals refer to attached .xlsx file.
+- To know the strategic insights refer to the attached .pdf file
 
+
+For more details about the project clcik [here](https://codebasics.io/challenge/codebasics-resume-project-challenge/7).
