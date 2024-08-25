@@ -21,8 +21,8 @@ The task was to analyze ad-hoc data requests from AtliQ Hardware, addressing key
    
 **NOTE:** 
 - To review the SQL queries, click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Consumer%20Goods%3A%20On-Demand%20Sales%20Insights/SQL%20Queries).
-- For visual analysis, see the attached .xlsx file.
-- For strategic insights, refer to the attached .pdf file.
+- For visual analysis, see the attached [.xlsx file](https://github.com/ujjwal2131/Resume_Projects/blob/main/Consumer%20Goods%3A%20On-Demand%20Sales%20Insights/Visuals.xlsx).
+- For strategic insights, refer to the attached [.pdf file](https://github.com/ujjwal2131/Resume_Projects/blob/main/Consumer%20Goods%3A%20On-Demand%20Sales%20Insights/Insights.pdf).
 
 
 For more details about the project clcik [here](https://codebasics.io/challenge/codebasics-resume-project-challenge/7).
