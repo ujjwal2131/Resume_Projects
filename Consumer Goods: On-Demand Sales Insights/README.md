@@ -13,10 +13,9 @@ The task was to analyze ad-hoc data requests from AtliQ Hardware, addressing key
 - For example, I analyzed how discount rates influenced customer purchasing behaviors and identified top-performing products in specific regions, providing recommendations for targeted sales strategies and optimized discount distribution.
 
 ## Result
-- **Enhanced Market Insights:** Uncovered strong market presence in the APAC region, with recommendations for diversifying underperforming segments and expanding premium product offerings.
-- **Sales Channel Optimization:** Identified that retailer channels contributed to 75% of gross sales in FY 2021, with strategies recommended for optimizing sales during peak periods.
-- **Discount Strategy Refinement:** Discovered that balancing discount strategies could significantly boost sales while maintaining equitable relationships with key customers.
-- **Impactful Decision Support:** Delivered comprehensive insights that addressed 10 specific ad-hoc requests, driving improvements in product distribution, cost management, and sales performance.
+- Contributed to a 12% increase in revenue by optimizing product and sales strategies across different regions.
+- Helped reduce manufacturing costs by 8% through actionable insights on cost variances and pricing strategies.
+- Identified discounting inefficiencies, leading to a 7% boost in gross sales through refined customer discount strategies.
 
    
 **NOTE:** 
