@@ -16,8 +16,8 @@ There is a pressing need for a solution that can facilitate the meticulous track
 ## Result
 - **Transformative Financial Insight:** Generated dynamic Profit and Loss statements, improving financial visibility by 30%.
 - **Adaptive Reporting and Cost Control:** Enabled analysis of financial data across monthly, quarterly, and yearly intervals, reducing reporting time by 40%.
-- **Dashboard Implementation and Decision-Making:** Developed the Finance Performance Dashboard using interactive Pivot charts and slicers, allowing the finance team to quickly filter and explore financial metrics across different markets and channels. This enhanced decision-making efficiency by 35%.
 - **Enhanced Communication and Collaboration:** Facilitated transparent financial reporting, increasing cross-department collaboration efficiency by 25%.
+- **Dashboard Implementation and Decision-Making:** Developed the Finance Performance Dashboard using interactive Pivot charts and slicers, allowing the finance team to quickly filter and explore financial metrics across different markets and channels. This enhanced decision-making efficiency by 35%.
 
 **Analysis Reports:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Analysis%20Reports) to check the reports.  
 **Insights:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Insights) to check the key insights.<br>
