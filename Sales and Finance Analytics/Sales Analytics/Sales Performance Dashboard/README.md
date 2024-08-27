@@ -1,3 +1,6 @@
+![Screenshot (574)](https://github.com/user-attachments/assets/cea7ce19-b810-4963-b4be-011be91cac30)
+
+
 **Note:** Due to platform limitations, the 'Sales Performance Dashboard' is available via OneDrive.<br>
 To access the dashboard, click [here](https://1drv.ms/x/s!AuEpb2KlMZkGkQ90IMFSZPtUGnEX?e=stk7KE).
 
