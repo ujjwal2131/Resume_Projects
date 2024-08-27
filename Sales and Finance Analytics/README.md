@@ -28,6 +28,7 @@ The goal of this project is to enhance AtliQ Hardware’s sales strategies and f
 - [x]	Adept at crafting a sophisticated date table through the power of Power Query, showcasing finesse in the art of data manipulation.
 - [x]	Demonstrated ability to skillfully derive fiscal years, months, and quarters, lending a strategic edge to data interpretation.
 - [x]	Mastery in weaving intricate data model relationships with the prowess of Power Pivot, constructing a foundation of coherence and efficiency.
+- [x]	Excel Dashboarding Expertise: Proficient in designing dynamic and interactive dashboards in Excel, leveraging advanced functions, data visualization techniques, and slicers to deliver insightful and actionable business reports.
 - [x]	Fluency in seamlessly integrating supplementary data into an existing data model, elevating its comprehensiveness and depth.
 - [x]	Proficient utilization of DAX to craft calculated columns, adding a layer of analytical depth and precision to the data model. 	
 
