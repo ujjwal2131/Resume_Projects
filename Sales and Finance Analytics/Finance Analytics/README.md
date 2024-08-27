@@ -9,7 +9,7 @@ There is a pressing need for a solution that can facilitate the meticulous track
 ## Actions Taken
 - **Selected Tools:** Chose Excel as the primary tool for its robust capabilities in data extraction, cleaning, transformation, modeling, and report creation.
 
-- **Utilized Features:** Leveraged 'Get Data' for extracting data from CSV files, Power Query with M language for data cleaning and transformation, and Power Pivot with DAX for data modeling and measure creation. Used Pivot tables and conditional formatting to create insightful reports and highlight key metrics. Utilized Pivot chart, and slicers to create interactive and dynamic dashboards, providing deep insights into KPIs like 'Net Sales,' 'COGS,' 'Gross Margin,' and 'Gross Margin%'. Employed ETL (Extract, Transform, Load) concepts throughout the process.
+- **Utilized Features:** Leveraged 'Get Data' for extracting data from CSV files, Power Query with M language for data cleaning and transformation, and Power Pivot with DAX for data modeling and measure creation. Used Pivot tables and conditional formatting to create insightful reports and highlight key metrics. Utilized Pivot tables, Pivot charts, and slicers to create interactive and dynamic dashboards, providing deep insights into KPIs like 'Net Sales,' 'COGS,' 'Gross Margin,' and 'Gross Margin%'. Employed ETL (Extract, Transform, Load) concepts throughout the process.
 
 - **Applied Formulas and Functions:** Implemented DAX functions like DIVIDE(), SUM(), CALCULATE(), and RELATED() to compute measures essential for the finance analytics reports. Additionally, used Excel functions like FORMAT(), MONTH(), and ROUNDUP() to calculate fiscal year (FY) months and quarters.
 
