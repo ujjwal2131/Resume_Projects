@@ -19,4 +19,5 @@ There is a pressing need for a solution that can facilitate the meticulous track
 - **Enhanced Communication and Collaboration:** Facilitated transparent financial reporting, increasing cross-department collaboration efficiency by 25%.
 
 **Analysis Reports:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Analysis%20Reports) to check the reports.  
-**Insights:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Insights) to check the key insights.  
+**Insights:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Insights) to check the key insights.
+**Dashboard:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Finance%20Performance%20Dashboard) to check the finance performance dashboard.  
