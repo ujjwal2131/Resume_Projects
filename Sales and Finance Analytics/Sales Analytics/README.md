@@ -20,3 +20,4 @@ There is a need for a tailored solution to empower Loki in adopting a strategic 
 
 **Analysis Reports:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Analysis%20Reports) to check the reports.  
 **Insights:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Insights) to check the key insights.
+**Dashboard:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Sales%20Performance%20Dashboard) to check the sales performance dashboard.
