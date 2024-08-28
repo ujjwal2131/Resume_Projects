@@ -19,6 +19,6 @@ There is a need for a tailored solution to empower Loki in adopting a strategic 
 - Facilitated **strategic growth**, leading to a 15% increase in market share and achieving sales objectives by identifying top-performing products and tracking market performance.
 - Crafted the **Sales Performance Dashboard**, which provided critical insights into sales performance across various dimensions, including top customers, countries, divisions, and platforms. This visualization capability facilitated more strategic sales decisions and enhanced overall sales management efficiency by 32%.
 
-**Analysis Reports:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Analysis%20Reports) to check the reports.  
-**Insights:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Insights) to check the key insights.<br>
-**Dashboard:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Sales%20Performance%20Dashboard) to check the sales performance dashboard.
+**Analysis Reports:** Click [here](https://github.com/ujjwal2131/Sales-and-Finance-Analytics/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Analysis%20Reports) to check the reports.  
+**Insights:** Click [here](https://github.com/ujjwal2131/Sales-and-Finance-Analytics/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Insights) to check the key insights.<br>
+**Dashboard:** Click [here](https://github.com/ujjwal2131/Sales-and-Finance-Analytics/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Sales%20Performance%20Dashboard) to check the sales performance dashboard.
