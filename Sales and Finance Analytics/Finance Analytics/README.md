@@ -19,6 +19,6 @@ There is a pressing need for a solution that can facilitate the meticulous track
 - **Enhanced Communication and Collaboration:** Facilitated transparent financial reporting, increasing cross-department collaboration efficiency by 25%.
 - **Dashboard Implementation and Decision-Making:** Developed the Finance Performance Dashboard using interactive Pivot charts and slicers, allowing the finance team to quickly filter and explore financial metrics across different markets and channels. This enhanced decision-making efficiency by 35%.
 
-**Analysis Reports:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Analysis%20Reports) to check the reports.  
-**Insights:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Insights) to check the key insights.<br>
-**Dashboard:** Click [here](https://github.com/ujjwal2131/Resume_Projects/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Finance%20Performance%20Dashboard) to check the finance performance dashboard.  
+**Analysis Reports:** Click [here](https://github.com/ujjwal2131/Sales-and-Finance-Analytics/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Analysis%20Reports) to check the reports.  
+**Insights:** Click [here](https://github.com/ujjwal2131/Sales-and-Finance-Analytics/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Insights) to check the key insights.<br>
+**Dashboard:** Click [here](https://github.com/ujjwal2131/Sales-and-Finance-Analytics/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Finance%20Performance%20Dashboard) to check the finance performance dashboard.  
