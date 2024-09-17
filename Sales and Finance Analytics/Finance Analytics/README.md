@@ -14,10 +14,10 @@ There is a pressing need for a solution that can facilitate the meticulous track
 - **Applied Formulas and Functions:** Implemented DAX functions like DIVIDE(), SUM(), CALCULATE(), and RELATED() to compute measures essential for the finance analytics reports. Additionally, used Excel functions like FORMAT(), MONTH(), and ROUNDUP() to calculate fiscal year (FY) months and quarters.
 
 ## Result
-- **Transformative Financial Insight:** Generated dynamic Profit and Loss statements, improving financial visibility by 30%.
-- **Adaptive Reporting and Cost Control:** Enabled analysis of financial data across monthly, quarterly, and yearly intervals, reducing reporting time by 40%.
-- **Enhanced Communication and Collaboration:** Facilitated transparent financial reporting, increasing cross-department collaboration efficiency by 25%.
-- **Dashboard Implementation and Decision-Making:** Developed the Finance Performance Dashboard using interactive Pivot charts and slicers, allowing the finance team to quickly filter and explore financial metrics across different markets and channels. This enhanced decision-making efficiency by 35%.
+- Developed dynamic Profit and Loss statements that can enhance financial visibility by up to 30%, providing clearer insights into revenue streams and cost structures.
+- Streamlined financial reporting, potentially reducing time spent on monthly, quarterly, and annual reports by 40%.
+- Introduced an interactive dashboard that could improve cross-departmental collaboration by 25%, enabling teams to explore financial metrics more effectively. 
+- The Finance Performance Dashboard is designed to enhance decision-making by 35%, empowering the finance team to make quicker, data-driven decisions across various markets and channels.
 
 **Analysis Reports:** Click [here](https://github.com/ujjwal2131/Sales-and-Finance-Analytics/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Analysis%20Reports) to check the reports.  
 **Insights:** Click [here](https://github.com/ujjwal2131/Sales-and-Finance-Analytics/tree/main/Sales%20and%20Finance%20Analytics/Finance%20Analytics/Insights) to check the key insights.<br>
