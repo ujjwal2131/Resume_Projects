@@ -14,10 +14,10 @@ There is a need for a tailored solution to empower Loki in adopting a strategic 
 - **Applied Formulas and Functions:** Implemented DAX functions such as DIVIDE(), SUM(), CALCULATE(), and RELATED() to calculate key measures essential for generating the sales analytics report.
 
 ## Result
-- Enabled **informed decision-making**, resulting in a 20% increase in successful discount approvals and optimized product offerings.
-- Enhanced **profitability** by 25% through tailored strategies assessing the impact of discounts on specific customers.
-- Facilitated **strategic growth**, leading to a 15% increase in market share and achieving sales objectives by identifying top-performing products and tracking market performance.
-- Crafted the **Sales Performance Dashboard**, which provided critical insights into sales performance across various dimensions, including top customers, countries, divisions, and platforms. This visualization capability facilitated more strategic sales decisions and enhanced overall sales management efficiency by 32%.
+- The sales analysis is positioned to empower more informed decision-making, potentially leading to a 20% increase in successful discount approvals and optimized product offerings.
+- Profitability could see an improvement of up to 25% by utilizing tailored strategies that assess the specific impact of discounts on key customers.
+- This approach may drive strategic growth, with a forecasted 15% rise in market share and improved achievement of sales objectives by identifying top-performing products and tracking market performance.
+- The Sales Performance Dashboard is set to deliver critical insights into various dimensions of sales performance, enhancing overall sales management efficiency by 32%.
 
 **Analysis Reports:** Click [here](https://github.com/ujjwal2131/Sales-and-Finance-Analytics/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Analysis%20Reports) to check the reports.  
 **Insights:** Click [here](https://github.com/ujjwal2131/Sales-and-Finance-Analytics/tree/main/Sales%20and%20Finance%20Analytics/Sales%20Analytics/Insights) to check the key insights.<br>
